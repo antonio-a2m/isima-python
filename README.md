@@ -5,4 +5,4 @@ Proyecto para aprender Flask en la materia de Programación Orientada a Objetos
 M. en F.C. Antonio González García
 
 #Alumnos
-- Ponga aquí su nombre para que tenga calificación
+- Cecilia Almeida Mendoza
