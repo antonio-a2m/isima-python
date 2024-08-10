@@ -1,8 +1,9 @@
 # isima-python
 Proyecto para aprender Flask en la materia de Programación Orientada a Objetos
 
-#Profesor
+# Profesor
 M. en F.C. Antonio González García
 
-#Alumnos
-- Ponga aquí su nombre para que tenga calificación
+# Alumnos
+- Cecilia Almeida Mendoza
+- ozkr
